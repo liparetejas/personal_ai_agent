@@ -1,0 +1,7 @@
+mcp
+google-generativeai
+python-dotenv
+asyncio
+typing-extensions
+setuptools
+wheel
