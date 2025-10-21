@@ -1,7 +1,10 @@
 mcp
 google-generativeai
+google-genai
 python-dotenv
 asyncio
 typing-extensions
 setuptools
 wheel
+pymupdf
+fastmcp
