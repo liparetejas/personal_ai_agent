@@ -8,3 +8,7 @@ setuptools
 wheel
 pymupdf
 fastmcp
+pizzapi
+requests
+pydantic
+ollama
